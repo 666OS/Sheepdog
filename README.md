@@ -146,3 +146,10 @@ sudo rm -f /var/run/com.sheepdog.helper.sock
 
 - **分发形态**：Sheepdog 现阶段作为**免费编译二进制（Freeware Binary）**公开发布，个人与商业均可免费使用。
 - **版权声明**：软件版权由 666OS 保留。详细条款参见 [LICENSE](LICENSE)。
+
+---
+
+## 鸣谢 (Credits)
+
+- [MyGo](https://github.com/egoist/mygo)：极简的原生 Go 桌面应用框架与构建分发工具链。
+- [Lucide Icons](https://lucide.dev)：精美且一致的矢量界面图标体系。

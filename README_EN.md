@@ -147,3 +147,10 @@ sudo rm -f /var/run/com.sheepdog.helper.sock
 - **Distribution**: Sheepdog is currently distributed as **Freeware Binary**, free for both personal and commercial use.
 - **Copyright**: Copyright (c) 2026 666OS. All rights reserved. See [LICENSE](LICENSE) for details.
 
+---
+
+## Credits
+
+- [MyGo](https://github.com/egoist/mygo): Lightweight native Go desktop GUI toolkit and distribution pipeline.
+- [Lucide Icons](https://lucide.dev): Clean, beautiful, and consistent vector iconography.
+
