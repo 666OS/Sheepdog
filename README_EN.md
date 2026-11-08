@@ -12,7 +12,7 @@ Automatically captures raw TCP traffic from `git`, `brew`, `curl`, Cursor, Docke
 > **Pre-requisite Notice**: If your proxy client already has **TUN Mode** or **Enhanced Mode** enabled (such as Surge Enhanced Mode), please **do not** run Sheepdog simultaneously (both manage virtual network interfaces and kernel routes, causing conflicts).
 
 <p align="center">
-  <img src="assets/preview-dark.png" width="70%" alt="Sheepdog Dark Mode" />
+  <img src="assets/preview-dark-en.png" width="70%" alt="Sheepdog Dark Mode" />
 </p>
 
 ---
@@ -142,3 +142,4 @@ sudo rm -f /var/run/com.sheepdog.helper.sock
 
 - **Distribution**: Sheepdog is currently distributed as **Freeware Binary**, free for both personal and commercial use.
 - **Copyright**: Copyright (c) 2026 666OS. All rights reserved. See [LICENSE](LICENSE) for details.
+
