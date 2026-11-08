@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Sheepdog-logo.png" width="128" alt="Sheepdog" />
+  <img src="assets/Sheepdog-logo.png" width="256" alt="Sheepdog" />
 </p>
 
-# Sheepdog (牧羊犬)
+<h1 align="center">Sheepdog (牧羊犬)</h1>
 
 <p align="center">
   <b>简体中文</b> | <a href="README_EN.md">English</a>

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Sheepdog-logo.png" width="128" alt="Sheepdog" />
+  <img src="assets/Sheepdog-logo.png" width="256" alt="Sheepdog" />
 </p>
 
-# Sheepdog
+<h1 align="center">Sheepdog</h1>
 
 <p align="center">
   <a href="README.md">简体中文</a> | <b>English</b>
