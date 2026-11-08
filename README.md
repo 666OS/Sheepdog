@@ -149,7 +149,7 @@ sudo rm -f /var/run/com.sheepdog.helper.sock
 
 ---
 
-## 鸣谢 (Credits)
+## 鸣谢
 
 - [MyGo](https://github.com/egoist/mygo)：极简的原生 Go 桌面应用框架与构建分发工具链。
 - [Lucide Icons](https://lucide.dev)：精美且一致的矢量界面图标体系。
