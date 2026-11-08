@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Sheepdog-logo.png" width="128" alt="Sheepdog" />
+</p>
+
 # Sheepdog (牧羊犬)
 
 <p align="center">
